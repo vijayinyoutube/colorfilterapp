@@ -1,4 +1,4 @@
-# colorfilterapp
+# 🌈 colorfilterapp
 
 [![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/colorfilterapp)
 [![vijaycreations](https://img.shields.io/badge/Follow_me-vijaycreations-orange.svg?&logo=youtube&logoColor=orange)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
@@ -7,12 +7,12 @@
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/colorfilterapp)
 
 
-## Flutter
+## ✨ Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
 
 
-## App
+## 📱 App
 
 To know more awesome content about Flutter., 
 
