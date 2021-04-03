@@ -7,7 +7,9 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/colorfilterapp)
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/colorfilterapp)
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/113478030-e6576780-94a3-11eb-9e6a-1989bc2841ed.png" width="100%">
+</p>
 
 ## ✨ Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
